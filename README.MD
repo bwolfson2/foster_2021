@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository includes 8 modules with Ipython Notebooks (that can be opened in Colab) created for the class Data Science for Business Analytics (NYU Stern School of Business, Spring 2020). Each module includes data, code and description of each task within the Data Science Framework.
+This repository includes 8 modules with Ipython Notebooks (that can be opened in Colab) created for the class Data Science for Business Analytics (NYU Stern School of Business, Spring 2021). Each module includes data, code and description of each task within the Data Science Framework.
 
 
 ## Motivation
